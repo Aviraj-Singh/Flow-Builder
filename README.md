@@ -64,7 +64,7 @@ npm run dev
 npm run build
 ```
 
-The app runs at `http://localhost:5173`.
+The app runs at `https://flow-builder-aviraj.vercel.app/`.
 
 ---
 
